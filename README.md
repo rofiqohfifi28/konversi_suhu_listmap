@@ -8,4 +8,4 @@ Rofiqoh Wahyuningtyas
 
 
 <img src="img/1.jpeg" alt="tugas" style="width:200px;"/>
-<img src="img/2.jpeg" alt="tugas" style="width:200px;"/
+<img src="img/2.jpeg" alt="tugas" style="width:200px;"/>
